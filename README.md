@@ -17,7 +17,7 @@ AI agents.
 - [PrevReport](https://github.com/Hans-Tandt/PrevReport-download): monthly, quarterly and annual safety reports for prevention advisers in Belgium, France and Germany.
 
 **Small tools**
-- [AutoReply](https://github.com/Hans-Tandt/AutoReply): out-of-office messages in four languages for fifteen Belgian leave types. One HTML file, nothing to install.
+- [AutoReply](https://github.com/Hans-Tandt/AutoReply): out-of-office messages in four languages for fifteen Belgian leave types. One HTML file, nothing to install. [Use it online](https://hans-tandt.github.io/AutoReply/).
 
 **For the production floor** (private)
 - Verification tools that check machine files before they reach production equipment.
