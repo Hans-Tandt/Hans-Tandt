@@ -20,7 +20,7 @@ AI agents.
 - [AutoReply](https://github.com/Hans-Tandt/AutoReply): out-of-office messages in four languages for fifteen Belgian leave types. One HTML file, nothing to install. [Use it online](https://hans-tandt.github.io/AutoReply/).
 
 **Guides**
-- [AI Guides](https://hans-tandt.github.io/AI-Guides/): free, plain-language guides to AI and Claude, from zero to your first real task. English, French and Dutch.
+- [AI Guides](https://hans-tandt.github.io/AI-Guides/): free, plain-language guides to AI and Claude, from zero to your first real task. English, French, Dutch and German.
 
 **For the production floor** (private)
 - Verification tools that check machine files before they reach production equipment.
