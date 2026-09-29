@@ -6,6 +6,7 @@ handle: hans-tandt
 headline: Project engineer in glulam, CLT and sawmill lines. I build practical tools with AI.
 location: Belgium, BE
 status: working
+updated: 2026-09-29
 roles: [project-engineer, technical-manager, tool-builder]
 stack: [claude, python, microsoft-office, solidworks]
 focus: [glulam, clt, sawmill-machinery, ai-for-non-programmers]
@@ -16,7 +17,7 @@ timezone: Europe/Brussels
 links:
   github: https://github.com/hans-tandt
   linkedin: https://www.linkedin.com/in/hans-tandt/
-  site: https://fruytier.com/
+  employer: https://fruytier.com/
   email: htandt@fft-be.com
 ---
 
