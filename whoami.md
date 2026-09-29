@@ -10,7 +10,7 @@ updated: 2026-09-29
 roles: [project-engineer, technical-manager, tool-builder]
 stack: [claude, python, microsoft-office, solidworks]
 focus: [manufacturing, industrial-machinery, production-lines, ai-for-non-programmers]
-languages: [nl, en, fr]
+languages: [en, nl, fr, de]   # in order of preference for contacting me
 available_for: [knowledge-sharing, mentorship, consulting]
 tags: [belgium, manufacturing, industrial-engineering]
 timezone: Europe/Brussels
@@ -28,7 +28,7 @@ Claude, to build practical tools for my own work: small Python apps, reports, an
 training manuals. I want to get the most out of AI at my own level, and to show that
 you don't need to be a developer to do useful things with it.
 
-I work in Dutch, English and French every day.
+I work in four languages every day. English first, then Dutch, French and German.
 
 This is a personal account. It is not connected to my employer, and nothing here
 speaks for them.
