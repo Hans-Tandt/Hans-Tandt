@@ -3,16 +3,16 @@ declared: "1.0"
 kind: whoami
 name: Hans Tandt
 handle: hans-tandt
-headline: 37 years in manufacturing industry, now in engineered timber. I build practical tools with AI.
+headline: 37 years in manufacturing industry. I build practical tools with AI.
 location: Belgium, BE
 status: working
 updated: 2026-09-29
 roles: [project-engineer, technical-manager, tool-builder]
 stack: [claude, python, microsoft-office, solidworks]
-focus: [manufacturing, industrial-machinery, engineered-timber, ai-for-non-programmers]
+focus: [manufacturing, industrial-machinery, production-lines, ai-for-non-programmers]
 languages: [nl, en, fr]
 available_for: [knowledge-sharing, mentorship, consulting]
-tags: [belgium, manufacturing, engineered-wood]
+tags: [belgium, manufacturing, industrial-engineering]
 timezone: Europe/Brussels
 links:
   github: https://github.com/hans-tandt
@@ -20,8 +20,8 @@ links:
 ---
 
 I'm Hans, a Flemish engineer living and working in Wallonia. I have spent 37 years in
-manufacturing industry. The last year and a half has been engineered timber — glulam,
-CLT and sawmill lines.
+manufacturing industry. The sector can change — the work is the same: production
+lines, machinery, and the projects that put them in place.
 
 I'm not a professional programmer, and I don't plan to become one. I use AI, mostly
 Claude, to build practical tools for my own work: small Python apps, reports, and
