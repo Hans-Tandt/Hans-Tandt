@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Hans-Tandt/AI-Guides/main/assets/mascot/mascot_arms.png" alt="Robot mascot, arms crossed" height="180" align="right">
+
 # Hans Tandt 🏭
 
 Industrial engineer by trade, AI builder by passion. I spent 37 years in manufacturing:
