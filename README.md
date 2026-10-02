@@ -16,6 +16,7 @@ Today I turn the problems I see on the shop floor and in the office into practic
 **Windows apps**
 - [Anchor](https://github.com/hans-tandt/Anchor): incremental backup for Windows 10/11 with versioning, verify and restore, to USB, SFTP, WebDAV or OneDrive.
 - [PrevReport](https://github.com/hans-tandt/PrevReport-download): monthly, quarterly and annual safety reports for prevention advisers in Belgium, France and Germany.
+- [System Repair Assistant](https://github.com/hans-tandt/Windows_System_Repair): one-click Windows repair tool with a simple GUI: DISM, SFC, CHKDSK, Windows Update reset and search fix. Single Python file, no dependencies.
 
 **Small tools**
 - [AutoReply](https://github.com/hans-tandt/AutoReply): out-of-office messages in four languages for fifteen Belgian leave types. One HTML file, nothing to install. [Use it online](https://hans-tandt.github.io/AutoReply/).
