@@ -15,7 +15,7 @@ Today I turn the problems I see on the shop floor and in the office into practic
 
 **Windows apps**
 - [Anchor](https://github.com/hans-tandt/Anchor): incremental backup for Windows 10/11 with versioning, verify and restore, to USB, SFTP, WebDAV or OneDrive.
-- <img src="https://raw.githubusercontent.com/Hans-Tandt/PrevReport-download/main/assets/owl_success.png" alt="PrevReport owl" height="60" align="top"> [PrevReport](https://github.com/hans-tandt/PrevReport-download): safety reports, prevention plans and equipment release (three green lights) for prevention advisers in Belgium, France and Germany.
+- <img src="https://raw.githubusercontent.com/Hans-Tandt/PrevReport-download/main/assets/owl_success.png" alt="PrevReport owl" height="120" align="right"> [PrevReport](https://github.com/hans-tandt/PrevReport-download): safety reports, prevention plans and equipment release (three green lights) for prevention advisers in Belgium, France and Germany.
 - [System Repair Assistant](https://github.com/hans-tandt/Windows_System_Repair): one-click Windows repair tool with a simple GUI: DISM, SFC, CHKDSK, Windows Update reset and search fix. Single Python file, no dependencies.
 
 **Small tools**
