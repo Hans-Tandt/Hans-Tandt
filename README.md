@@ -22,7 +22,9 @@ Today I turn the problems I see on the shop floor and in the office into practic
 - [AutoReply](https://github.com/hans-tandt/AutoReply): out-of-office messages in four languages for fifteen Belgian leave types. One HTML file, nothing to install. [Use it online](https://hans-tandt.github.io/AutoReply/).
 
 **Guides**
-- <img src="https://raw.githubusercontent.com/Hans-Tandt/AI-Guides/main/assets/mascot/mascot_wave.png" alt="AI Guides robot" height="120" align="right"> [AI Guides](https://hans-tandt.github.io/AI-Guides/): free, plain-language guides to AI and Claude, from zero to your first real task. English, French, Dutch and German.
+- <img src="https://raw.githubusercontent.com/Hans-Tandt/Hans-Tandt/main/assets/robot_wave.png" alt="AI Guides robot" height="120" align="right"> [AI Guides](https://hans-tandt.github.io/AI-Guides/): free, plain-language guides to AI and Claude, from zero to your first real task. English, French, Dutch and German.
+
+<br clear="right">
 
 ## Say hi
 
